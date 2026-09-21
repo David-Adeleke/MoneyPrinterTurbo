@@ -9,7 +9,6 @@
 /app/models/__pycache__/
 /app/utils/__pycache__/
 /*/__pycache__/*
-.vscode
 /**/.streamlit
 __pycache__
 logs/
@@ -45,3 +44,7 @@ htmlcov/
 
 # Claude Code 订阅令牌（docker compose 自动读取），禁止提交
 .env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
